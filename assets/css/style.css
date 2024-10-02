@@ -102,6 +102,12 @@ h2 {
     border: none;
 }
 
+/* Events Section */
+
+#events .table {
+    color: var(--primary-color);
+}
+
 /* Footer / contact */
 
 #contact {
